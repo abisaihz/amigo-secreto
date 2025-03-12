@@ -6,7 +6,9 @@ Proyecto Elaborado como parte del challenge del Amigo Secreto de Alura. Se cumpl
 
 
 ## :hammer:Funcionalidades del proyecto habilitadas
-- `Funcionalidad 1`: Capacidad de capturar y agregar listas de amigos- `Funcionalidad 2`: Sorteo entre los nombres para seleccionar uno de los capturados- `Funcionalidad 3`: Creacion de elementos li para impresion
+- `Funcionalidad 1`: Capacidad de capturar y agregar listas de amigos
+- `Funcionalidad 2`: Sorteo entre los nombres para seleccionar uno de los capturados
+- `Funcionalidad 3`: Creacion de elementos li para mostrar en pantalla
 
 
 
