@@ -11,8 +11,6 @@ if (amigos.length < 2) {
 } else {
     let numAmigo = Math.floor(Math.random()*amigos.length);
     selAmigo = amigos[numAmigo];
-    // Aqui se imprime para probar el resultado
-    console.log(`Amigo seleccionado ${selAmigo}`);
     editarEtiqueta("resultado",`Amigo seleccionado: ${selAmigo}`);
 }
 
